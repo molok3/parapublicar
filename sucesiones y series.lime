@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$C:\Users\Abraam\Desktop\Lim matematicas\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FF9D3C</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Sucesiones y series</titulo>
+          <autor>Abraham Ramón</autor>
+          <iden>ARAH</iden>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>Sucesion aritmética</cabeceira>
+              <imaxe posx="0" posy="13">C:\Users\Abraam\Desktop\Lim matematicas\Capture_20161030.swf</imaxe>
+              <texto posx="0" posy="-2" ancho="607" largo="169"><![CDATA[
+<p align="left">
+<font color="#00FF00" face="Arial" size="12"><b>Una sucesión aritmética es aquella sucesión cuyos términos después del primero se obtiene sumando un valor fijo llamado </b></font><font color="#FF0000" face="Arial" size="12"><b>razón aritmética</b><br>
+</font><font color="#00FF00" face="Arial" size="12"><b> La razón aritmética es el resultado de restar dos términos consecutivos: </b></font><font color="#FF0000" face="Arial" size="12"><b>el segundo menos el primero</b></font><font color="#00FF00" face="Arial" size="12"><b>.</b><br>
+<br>
+<b>Una manera de comprobar que se trata de una sucesión aritmética es restar cada par consecutivo. Si se llega a un mismo resultado entonces se trata de una sucesión aritmética</b><br>
+<b>     Analice los siguientes ejemplos:</b><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el rompecabezas para encontrar el n-ésimo término de una sucesión aritmética</cabeceira>
+              <evalua  crt="Sigue adelante" icrt="Una vez más">1</evalua>
+              <imaxe>C:\Users\Abraam\Desktop\Lim matematicas\an_sa.png</imaxe>
+              <imfondo  trans="30">C:\Users\Abraam\Desktop\Lim matematicas\puz1.png</imfondo>
+              <filas>4</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>Ejemplo</cabeceira>
+              <imaxe posx="0" posy="47">C:\Users\Abraam\Desktop\Lim matematicas\ari1.png</imaxe>
+              <texto posx="0" posy="-1" ancho="611" largo="45"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Cambria" size="20"><b>Encuentre el décimo tercer término de la sucesión: 5,  3,  1,  -1, </b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>10</tipo>
+              <cabeceira>Considere la sucesión: -4, -7, -10, -13, ....   y conteste las siguientes preguntas</cabeceira>
+              <mais ir="">Una vez más</mais>
+              <pregunta res="-16">Cuál es el término que sigue inmediatamente después del último?</pregunta>
+              <pregunta res="-43">Cuál es el décimo cuarto término  de la sucesión?</pregunta>
+              <pregunta res="-64">Cuál es el vigésimo término  de la sucesión?</pregunta>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>Considere la sucesión: 1000, 985, 970, 955, .... y conteste las preguntas</cabeceira>
+              <texto>Cuál es el vigésimo quinto término de la sucesión?</texto>
+              <resp texto="-16" valor="0">064</resp>
+              <resp texto="-43" valor="0">460</resp>
+              <resp texto="640" valor="1">640</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>25</tipo>
+              <cabeceira>Escriba la respuesta, en la forma hora con x minutos, a la pregunta</cabeceira>
+              <modo>0</modo>
+              <forma>1</forma>
+              <texto>Un reloj se adelanta 3 minutos cada hora, si en este momento marca 8:00 cuántos minutos se habra adelantado en 5 horas?</texto>
+              <reloxo hora="01:15">una con quince minutos</reloxo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="2" posy="-17">C:\Users\Abraam\Desktop\Lim matematicas\Capture_20161101.swf</imaxe>
+              <texto posx="0" posy="-23" ancho="626" largo="31"><![CDATA[
+<p align="left">
+<font color="#00FF00" face="Arial" size="14"><b>Sucesión geométrica</b></font><font color="#00FFFF" face="Arial" size="14"><b>: es aquella sucesión cuyos términos después del primero se obtiene multiplicando por un valor fijo llamado </b></font><font color="#F90000" face="Arial" size="14"><b>razón geométrica.</b><br>
+</font><font color="#00FFFF" face="Arial" size="14"><b>Razón geométrica: es el resultado de dividir dos términos consecutivos de una sucesión geométrica.</b><br>
+<b>Los siguientes ejemplos corresponden a una sucesión geométrica, dan mismo resultado al dividir:</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>30</tipo>
+              <cabeceira>En cierta ciudad nacieron 32 500 bebés en el año 2005, si el número de nacimientos se incrementa 20% anual. Arrastre la respuesta a la pregunta correspondiente</cabeceira>
+              <imaxe posx="0" posy="14">C:\Users\Abraam\Desktop\Lim matematicas\geo3.png</imaxe>
+              <modo>2</modo>
+              <valor>20</valor>
+              <etiqueta posx="421" posy="138">1.2</etiqueta>
+              <etiqueta posx="427" posy="56">39 000</etiqueta>
+              <etiqueta posx="411" posy="226">46 800</etiqueta>
+              <etiqueta posx="430" posy="311">500 728</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="2" posy="89">C:\Users\Abraam\Desktop\Lim matematicas\sa1.png</imaxe>
+              <texto posx="0" posy="-3" ancho="614" largo="63"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="14"><b>Serie aritmética: es la suma de los elementos de una sucesión aritmética.</b><br>
+<br>
+<b>La expresión que permite calcular la suma de los n primeros términos de la sucesión es:</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="40">C:\Users\Abraam\Desktop\Lim matematicas\sa2.png</imaxe>
+              <texto posx="0" posy="-6" ancho="664" largo="58"><![CDATA[
+<p align="left">
+<font color="#000000" face="Malgun" size="16"><b>Encuentre la suma de los 15 primero términos de la sucesión: 7, -11, -29,</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
